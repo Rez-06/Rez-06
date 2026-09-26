@@ -46,7 +46,7 @@ across software engineering, artificial intelligence, and robotics.
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                    CURRENTLY WORKING ON                         -->
+<!--                    CURRENTLY EXPLORING                          -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -114,23 +114,23 @@ across software engineering, artificial intelligence, and robotics.
 
 <div align="center">
 
+<a href="https://www.facebook.com/rezwanahmed.ovi">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/rezwan-ahmed-095ba0322/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <a href="https://discord.gg/UYUc5mKyh">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<a href="https://facebook.com/Rezwan%20Ahmed">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/rezwan-ahmed-095ba0322/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@Rezwan%20Ahmed">
+<a href="https://medium.com/@rezwan.ahmed.ovi.2005">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="https://x.com/@RezwanAhme15725">
+<a href="https://x.com/RezwanAhme15725">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
