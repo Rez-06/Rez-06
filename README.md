@@ -1,46 +1,100 @@
-<!-- Animated Header -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                           BANNER                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=REZWAN&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Robotics&descSize=18&descAlignY=55&animation=fadeIn&color=0:0f172a,50:111827,100:1e293b" width="100%" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         INTRO                                   -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rezwan+%F0%9F%91%8B;CSE+Student+%40+IUT;Software+Engineer+%7C+AI%2FML+%7C+Robotics;Building+things+that+actually+work." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rezwan+%F0%9F%91%8B;CSE+Student+%40+IUT;Software+Engineer+%7C+AI%2FML+%7C+Robotics;Building+things+that+actually+work." />
 
 <br>
 
 <p>
-  CSE Student @ Islamic University of Technology (IUT)<br>
+  <b>CSE Student @ Islamic University of Technology (IUT)</b><br>
   Building at the intersection of Software Engineering, AI/ML, and Robotics.
 </p>
 
 </div>
 
----
+<br>
 
-<h3 align="center">What I'm Into</h3>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       ABOUT ME                                  -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+I'm a Computer Science student interested in building practical systems<br>
+across software engineering, artificial intelligence, and robotics.
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    CURRENTLY WORKING ON                         -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Currently Exploring</h2>
 
 <div align="center">
 
-**AI / ML** — Machine Learning, Generative AI, AI Agents & Computer Vision
-**Software Engineering** — Full-Stack Web Development & scalable applications
-**Algorithms** — Data Structures, Algorithms & Competitive Programming
-**Robotics** — Drones, Embedded Systems, Computer Vision & autonomous systems
+* Exploring <b>Next.js, TypeScript & modern full-stack development</b>
+* Building projects with <b>AI-assisted development workflows</b>
+* Learning <b>Machine Learning, Generative AI & AI Agents</b>
+* Practicing <b>Data Structures, Algorithms & Competitive Programming</b>
+* Exploring <b>Computer Vision, Embedded Systems & Robotics</b>
 
 </div>
 
 <br>
 
-<!-- Animated Divider -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         INTERESTS                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">What I'm Into</h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=header" width="80%" />
+
+<b>AI / ML</b> — Machine Learning, Generative AI, AI Agents & Computer Vision<br> <b>Software Engineering</b> — Full-Stack Web Development & scalable applications<br> <b>Algorithms</b> — Data Structures, Algorithms & Competitive Programming<br> <b>Robotics</b> — Drones, Embedded Systems, Computer Vision & autonomous systems
+
 </div>
 
 <br>
 
-<h3 align="center">Tech Stack</h3>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         TECH STACK                              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,vite,js,py,cpp,c,java,html,css&perline=6" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,vite,js&perline=6" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,html,css&perline=6" />
 
 <br><br>
 
@@ -50,9 +104,13 @@
 
 <br>
 
-<!-- Social Links -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">Connect</h3>
+<!--                         SOCIALS                                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Connect</h2>
 
 <div align="center">
 
@@ -84,9 +142,13 @@
 
 <br><br>
 
-<!-- GitHub Analytics -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">GitHub Analytics</h3>
+<!--                      GITHUB ANALYTICS                           -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
@@ -112,9 +174,13 @@
 
 <br>
 
-<!-- Contribution Snake -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">Contribution Activity</h3>
+<!--                    CONTRIBUTION ACTIVITY                        -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Contribution Activity</h2>
 
 <div align="center">
 
@@ -124,9 +190,13 @@
 
 <br>
 
-<!-- Trophies -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">Achievements</h3>
+<!--                         TROPHIES                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Achievements</h2>
 
 <div align="center">
 
@@ -136,9 +206,13 @@
 
 <br>
 
-<!-- Developer Quote -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">Random Dev Quote</h3>
+<!--                       DEV QUOTE                                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Random Dev Quote</h2>
 
 <div align="center">
 
@@ -148,7 +222,11 @@
 
 <br><br>
 
-<!-- Profile Views -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       PROFILE VIEWS                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -158,10 +236,12 @@
 
 <br>
 
-<!-- Footer -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!--                           FOOTER                                -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:111827,100:1e293b" width="100%" />
+</p>
